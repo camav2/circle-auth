@@ -2,7 +2,7 @@
 
 Magic-link authentication for Circle communities. Your members sign in with their community email — no separate accounts, no passwords. Works with any number of downstream apps or tools.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYOUR_ORG%2Fcircle-auth&env=CIRCLE_ADMIN_V2_TOKEN,CIRCLE_COMMUNITY_ID,RESEND_API_KEY,RESEND_FROM_EMAIL,UPSTASH_REDIS_REST_URL,UPSTASH_REDIS_REST_TOKEN,JWT_PRIVATE_KEY,AUTH_BASE_URL,NEXT_PUBLIC_BRAND_NAME)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fcamav2%2Fcircle-auth&env=CIRCLE_ADMIN_V2_TOKEN,CIRCLE_COMMUNITY_ID,RESEND_API_KEY,RESEND_FROM_EMAIL,UPSTASH_REDIS_REST_URL,UPSTASH_REDIS_REST_TOKEN,JWT_PRIVATE_KEY,AUTH_BASE_URL,NEXT_PUBLIC_BRAND_NAME)
 
 ---
 
